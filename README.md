@@ -218,7 +218,7 @@ Le projet compile avec `-Wall` ; la cible *Debug* ajoute `-g`, la cible *Release
 2. coder dans `Thermo_Calculgama.f90` le modèle NRTL, avec τᵢⱼ = Cᵢⱼ/(R·T) et Gᵢⱼ = exp(−αᵢⱼ·τᵢⱼ) ;
 3. mettre à jour γ(T) au cours de la résolution — les γᵢ dépendant de T, une boucle externe autour de la dichotomie est nécessaire pour un mélange fortement non idéal comme Eau – Méthanol – Éthanol.
 
-Une implémentation de référence du modèle NRTL est indiquée par le programme lui-même : <https://github.com/yajeddig>.
+Une implémentation de référence du modèle NRTL est indiquée dans les travaux => <https://github.com/yajeddig>.
 
 Autres limites connues :
 
