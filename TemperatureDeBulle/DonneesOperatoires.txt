@@ -1,0 +1,6 @@
+100000      !   Pression extérieure
+273.15D0    !   Valeur min de la temperature de bulle
+1000D0      !   Valeur max de la temperature de bulle
+0.2   	    !	Composition du 1er élément (Eau) 
+0.3   	    !	Composition du 2ème élément (Methanol) 
+0.5   	    !	Composition du 3ème élément (Ethanol) 
